@@ -119,7 +119,7 @@ class CreditsState extends MusicBeatState
 				optionText.x -= 70;
 			}
 			optionText.forceX = optionText.x;
-			//optionText.yMult = 90;
+			optionText.yMult = 90;
 			optionText.targetY = i;
 			grpOptions.add(optionText);
 
